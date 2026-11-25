@@ -4,5 +4,5 @@
 // data is protected by sign-in and the rules in supabase-setup.sql.
 window.PYQ_CONFIG = {
   url: 'https://dagpycsdvudtbmrzwilh.supabase.co',
-  anonKey: ''   // the long "anon public" key starting with 'eyJ…' (or 'sb_publishable_…')
+  anonKey: 'sb_publishable_T1JhCwehvHkcAnGi3dWfuw_wMmUGNXZ'   // the long "anon public" key starting with 'eyJ…' (or 'sb_publishable_…')
 };
